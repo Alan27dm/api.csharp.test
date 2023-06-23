@@ -1,0 +1,4 @@
+﻿root = true
+
+[*.{cs,vb}]
+dotnet_diagnostic.cs8981.severity = none # 取消类名定义非大写字母开头的⚠️
